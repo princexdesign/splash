@@ -1,0 +1,11 @@
+img {
+    max-width: 50%;   
+}
+
+html {
+    background-color: #645dd7;
+}
+body{
+    margin: auto;
+    text-align: center
+}
