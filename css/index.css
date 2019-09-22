@@ -10,3 +10,14 @@ body{
     margin:auto;
     text-align: center
 }
+
+h1 {
+    font-family: give-you-glory, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+p {
+    font-family: antic, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
