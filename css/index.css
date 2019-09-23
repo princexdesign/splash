@@ -4,6 +4,7 @@ img{
 
 html{
     background-color: #D9F1C8
+        
 }
 
 body{
@@ -20,4 +21,21 @@ p {
     font-family: antic, sans-serif;
     font-weight: 300;
     font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    max-width: 7.5%;
+    margin: auto;
+}
+
+div img {
+    max-width: 105%;
 }
